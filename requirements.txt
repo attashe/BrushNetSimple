@@ -1,0 +1,5 @@
+opencv-python
+transformers
+acceelerate
+diffusers
+gdown
